@@ -138,6 +138,9 @@ nav ul li a:hover {
   z-index: -1;
 }
 @media (max-width: 767px) {
+  .logo{
+  margin-left: 25% !important;
+}
   nav ul {
     width: 100%;
     background: #c9995b5d;
